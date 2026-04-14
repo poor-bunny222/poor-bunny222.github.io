@@ -1,0 +1,173 @@
+<div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/stack-ball">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/stack-ball.png" data-src="https://htmlxm.github.io/thumb/stack-ball.png" class="small-thumb img-rounded lazyload" alt="Stack Ball"></div>
+        <div class="list-info">
+          <div class="list-title">Stack Ball</div>
+          <div class="list-category">Jumping</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/master-chess">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/master-chess.png" data-src="https://htmlxm.github.io/thumb/master-chess.png" class="small-thumb img-rounded lazyload" alt="Master Chess"></div>
+        <div class="list-info">
+          <div class="list-title">Master Chess</div>
+          <div class="list-category">Thinking</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/battle-wheels">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/battle-wheels.png" data-src="https://htmlxm.github.io/thumb/battle-wheels.png" class="small-thumb img-rounded lazyload" alt="Battle Wheels"></div>
+        <div class="list-info">
+          <div class="list-title">Battle Wheels</div>
+          <div class="list-category">Skill</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/water-color-sort">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/water-color-sort.png" data-src="https://htmlxm.github.io/thumb/water-color-sort.png" class="small-thumb img-rounded lazyload" alt="Water Color Sort"></div>
+        <div class="list-info">
+          <div class="list-title">Water Color Sort</div>
+          <div class="list-category">Thinking</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/moto-x3m-2">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/moto-x3m-2.png" data-src="https://htmlxm.github.io/thumb/moto-x3m-2.png" class="small-thumb img-rounded lazyload" alt="Moto X3m 2"></div>
+        <div class="list-info">
+          <div class="list-title">Moto X3m 2</div>
+          <div class="list-category">Racing</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/swingo">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/swingo.png" data-src="https://htmlxm.github.io/thumb/swingo.png" class="small-thumb img-rounded lazyload" alt="Swingo"></div>
+        <div class="list-info">
+          <div class="list-title">Swingo</div>
+          <div class="list-category">Skill</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/stacktris">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/stacktris.png" data-src="https://htmlxm.github.io/thumb/stacktris.png" class="small-thumb img-rounded lazyload" alt="Stacktris"></div>
+        <div class="list-info">
+          <div class="list-title">Stacktris</div>
+          <div class="list-category">Skill</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/stickman-climb-2">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/stickman-climb-2.png" data-src="https://htmlxm.github.io/thumb/stickman-climb-2.png" class="small-thumb img-rounded lazyload" alt="Stickman Climb 2"></div>
+        <div class="list-info">
+          <div class="list-title">Stickman Climb 2</div>
+          <div class="list-category">Skill</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/tiny-fishing">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/tiny-fishing.png" data-src="https://htmlxm.github.io/thumb/tiny-fishing.png" class="small-thumb img-rounded lazyload" alt="Tiny Fishing"></div>
+        <div class="list-info">
+          <div class="list-title">Tiny Fishing</div>
+          <div class="list-category">Sports</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/moto-x3m-winter">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/moto-x3m-winter.png" data-src="https://htmlxm.github.io/thumb/moto-x3m-winter.png" class="small-thumb img-rounded lazyload" alt="Moto X3m Winter"></div>
+        <div class="list-info">
+          <div class="list-title">Moto X3m Winter</div>
+          <div class="list-category">Racing</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/merge-round-racers">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/merge-round-racers.png" data-src="https://htmlxm.github.io/thumb/merge-round-racers.png" class="small-thumb img-rounded lazyload" alt="Merge Round Racers"></div>
+        <div class="list-info">
+          <div class="list-title">Merge Round Racers</div>
+          <div class="list-category">Racing</div>
+    
+        </div>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="col-lg-4 col-md-6 grid-2">
+    <a href="/play/basketball-stars">
+    <div class="game-item">
+      <div class="list-game">
+        <div class="list-thumbnail"><img src="https://htmlxm.github.io/thumb/basketball-stars.png" data-src="https://htmlxm.github.io/thumb/basketball-stars.png" class="small-thumb img-rounded lazyload" alt="Basketball Stars"></div>
+        <div class="list-info">
+          <div class="list-title">Basketball Stars</div>
+          <div class="list-category">Sports</div>
